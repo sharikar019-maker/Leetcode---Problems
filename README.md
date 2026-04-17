@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0389-find-the-difference) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
