@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0412-fizz-buzz) |
 | [1528-shuffle-string](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1528-shuffle-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3248-snake-in-matrix](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/3248-snake-in-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0605-can-place-flowers) |
 | [1528-shuffle-string](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1528-shuffle-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3248-snake-in-matrix](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/3248-snake-in-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0495-teemo-attacking) |
+| [3248-snake-in-matrix](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/3248-snake-in-matrix) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Stack
 |  |
