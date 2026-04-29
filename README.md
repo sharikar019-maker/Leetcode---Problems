@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0412-fizz-buzz) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0495-teemo-attacking) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Stack
 |  |
 | ------- |
