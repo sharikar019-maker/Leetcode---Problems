@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0495-teemo-attacking) |
+| [0605-can-place-flowers](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0605-can-place-flowers) |
 | [1528-shuffle-string](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1528-shuffle-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Linked List
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
