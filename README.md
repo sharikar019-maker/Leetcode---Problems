@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0412-fizz-buzz) |
+| [2413-smallest-even-multiple](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2413-smallest-even-multiple) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0605-can-place-flowers) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
