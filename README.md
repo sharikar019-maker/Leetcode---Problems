@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0605-can-place-flowers) |
 | [1512-number-of-good-pairs](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1528-shuffle-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0506-relative-ranks) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
 |  |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
