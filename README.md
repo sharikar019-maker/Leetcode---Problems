@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0500-keyboard-row) |
 | [1528-shuffle-string](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1528-shuffle-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3248-snake-in-matrix](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/3248-snake-in-matrix) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0500-keyboard-row) |
 | [1512-number-of-good-pairs](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1512-number-of-good-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Math
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0605-can-place-flowers) |
 | [1512-number-of-good-pairs](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1528-shuffle-string) |
