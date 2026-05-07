@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1512-number-of-good-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Math
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0228-summary-ranges) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0605-can-place-flowers) |
 | [1512-number-of-good-pairs](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1528-shuffle-string) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1512-number-of-good-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
