@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2469-convert-the-temperature) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3248-snake-in-matrix](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/3248-snake-in-matrix) |
 ## Linked List
 |  |
