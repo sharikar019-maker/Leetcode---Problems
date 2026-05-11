@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
