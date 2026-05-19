@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0283-move-zeroes) |
+| [2540-minimum-common-value](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0500-keyboard-row) |
 | [1512-number-of-good-pairs](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1512-number-of-good-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2540-minimum-common-value](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2540-minimum-common-value](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2540-minimum-common-value) |
 | [3248-snake-in-matrix](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/3248-snake-in-matrix) |
 ## Linked List
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0069-sqrtx) |
+| [2540-minimum-common-value](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
