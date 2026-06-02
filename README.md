@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0704-binary-search) |
 | [1512-number-of-good-pairs](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1528-shuffle-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
