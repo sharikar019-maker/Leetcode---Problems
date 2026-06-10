@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0112-path-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
