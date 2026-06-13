@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0680-valid-palindrome-ii) |
 | [1528-shuffle-string](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1528-shuffle-string) |
+| [1763-longest-nice-substring](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1763-longest-nice-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3248-snake-in-matrix](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/3248-snake-in-matrix) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0500-keyboard-row) |
 | [1512-number-of-good-pairs](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1512-number-of-good-pairs) |
+| [1763-longest-nice-substring](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1763-longest-nice-substring) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2540-minimum-common-value) |
 ## Math
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0389-find-the-difference) |
+| [1763-longest-nice-substring](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1763-longest-nice-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0219-contains-duplicate-ii) |
+| [1763-longest-nice-substring](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1763-longest-nice-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0169-majority-element) |
+| [1763-longest-nice-substring](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1763-longest-nice-substring) |
 ## Tree
 |  |
 | ------- |
