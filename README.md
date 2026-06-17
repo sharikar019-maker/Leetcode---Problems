@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0409-longest-palindrome) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
