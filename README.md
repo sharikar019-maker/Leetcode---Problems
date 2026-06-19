@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0409-longest-palindrome) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0290-word-pattern) |
