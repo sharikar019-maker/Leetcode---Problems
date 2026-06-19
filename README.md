@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0680-valid-palindrome-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0496-next-greater-element-i) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0506-relative-ranks) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
