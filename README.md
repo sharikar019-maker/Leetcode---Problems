@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0414-third-maximum-number) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0303-range-sum-query-immutable) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Heap (Priority Queue)
 |  |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sharikar019-maker/Leetcode---Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
